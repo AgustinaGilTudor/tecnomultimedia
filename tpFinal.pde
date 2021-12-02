@@ -1,4 +1,4 @@
-// LINK EXPLICACIÓN: 
+// LINK EXPLICACIÓN: https://www.youtube.com/watch?v=Y0z_BL15kYo
 // -----------------------------------------------------
 
 Aventura a;
